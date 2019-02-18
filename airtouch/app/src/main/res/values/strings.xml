@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GnbProject</string>
+
+    //base url
+    <string name="base_url">http://gnb.dev.airtouchmedia.com</string>
+
+    //select currency to convert
+    <string name="select_currency_to_convert">Select currency to convert.</string>
+    <string name="select_a_product">Select a product</string>
+
+    <string name="total_sum">Total: %.2f %s</string>
+    <string name="transaction_row_sku_example">T101</string>
+    <string name="transaction_row_amount_example">24.6</string>
+    <string name="transaction_row_currency_example">EUR</string>
+
+</resources>
